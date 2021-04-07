@@ -4,12 +4,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
+Title "St-link Clone"
+Date "31.08.2020"
 Rev ""
 Comp ""
 Comment1 ""
-Comment2 ""
+Comment2 "Mikhail Belkin (dltech174@gmail.com)"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -1538,7 +1538,7 @@ F 3 "https://en.wikipedia.org/wiki/Zener_diode" H 8600 1550 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Text Notes 2450 750  0    50   ~ 0
-PITALOVO
+POWER SUPPLY
 Text Notes 6500 900  0    50   ~ 0
 FRONTEND
 Text Notes 1450 2200 0    50   ~ 0
